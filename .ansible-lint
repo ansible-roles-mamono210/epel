@@ -1,5 +1,4 @@
 ---
 parseable: true
 skip_list: []
-warn_list:
-  - schema
+warn_list: []
