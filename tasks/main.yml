@@ -5,7 +5,7 @@
     state: present
 
 - name: Disable EPEL repo
-  ansible.builtin.ini_file:
+  community.general.files.ini_file:
     path: "/etc/yum.repos.d/epel.repo"
     section: epel
     option: enabled
