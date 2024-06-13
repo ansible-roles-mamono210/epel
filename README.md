@@ -3,7 +3,7 @@
 Role Description
 =========
 
-Installs [EPEL](https://docs.fedoraproject.org/en-US/epel/) for CentOS7 / Stream 8.
+Installs [EPEL](https://docs.fedoraproject.org/en-US/epel/) for Linux.
 
 Requirements
 ------------
